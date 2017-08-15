@@ -82,7 +82,7 @@ ul {
 }
 
 .hero::after {
-    background-image: url("images/forest.jpg")
+    background-image: url("../img/forest.jpg")
 }
 
 
